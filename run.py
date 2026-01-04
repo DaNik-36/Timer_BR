@@ -9,7 +9,7 @@ def clear_screen():
 def display_welcome():
     clear_screen()
     print("🌟" * 30)
-    print("🎯          POMVDORO ТАЙМЕР ДЛЯ УТРЕННЕЙ ЗАРЯДКИ          🎯")
+    print("🎯          POMODORO ТАЙМЕР ДЛЯ УТРЕННЕЙ ЗАРЯДКИ          🎯")
     print("🌟" * 30)
     print()
 
@@ -75,3 +75,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
